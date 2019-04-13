@@ -3,7 +3,7 @@
 #include <BlynkSimpleEsp8266.h> 
  
  
-// Hej med dig You should get Auth Token in the Blynk App. 
+// Hej med du should get Auth Token in the Blynk App. 
 // Go to the Project Settings (nut icon). 
 char auth[] = "YourAuthToken"; 
  
